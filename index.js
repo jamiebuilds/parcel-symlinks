@@ -1,2 +1,2 @@
-require('foo');
-require('./packages/bar');
+require('./target');
+require('./symlink');
