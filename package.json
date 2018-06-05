@@ -1,0 +1,14 @@
+{
+  "name": "parcel-symlinks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jamiebuilds/parcel-symlinks.git",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel index.js"
+  },
+  "dependencies": {
+    "parcel": "^1.8.1"
+  }
+}

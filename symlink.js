@@ -1,1 +1,1 @@
-module.exports = 'target';
+target.js
